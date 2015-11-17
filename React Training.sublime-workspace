@@ -1,0 +1,811 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"class",
+				"className"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"cr",
+				"createClass"
+			],
+			[
+				"Reac",
+				"React"
+			],
+			[
+				"html",
+				"index.html"
+			],
+			[
+				"var",
+				"var_export($bannerfile	(smx_actions_main.php)"
+			],
+			[
+				"getAc",
+				"getActionsByLocation〔function〕"
+			],
+			[
+				"oxca",
+				"oxcategories__oxid	(admin_actions_main_form.tpl)"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"getAct",
+				"getActionsByLocation"
+			],
+			[
+				"S",
+				"Shoptimax/"
+			],
+			[
+				"Us",
+				"Users/"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"na",
+				"navigationBox"
+			],
+			[
+				"links",
+				"links	link - stylesheet"
+			],
+			[
+				"inpu",
+				"inputt	input - text"
+			],
+			[
+				"src",
+				"source	 element"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"p",
+				"p	<p>"
+			],
+			[
+				"anrede",
+				"anredeFirma"
+			],
+			[
+				"rad",
+				"radioGroup"
+			],
+			[
+				"video",
+				"videoLinkBox	 layoutStandard.less"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"portle",
+				"portlet-shadow	 mixins.less"
+			],
+			[
+				"box",
+				"box-shadow	 formulare.less"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"end",
+				"endblock"
+			],
+			[
+				"is",
+				"isMicrosite"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"va",
+				"validation"
+			],
+			[
+				"ex",
+				"expandpanel"
+			],
+			[
+				"expa",
+				"expandpanel"
+			],
+			[
+				"form",
+				"form-element	 formulare.less"
+			],
+			[
+				"samme",
+				"sammelkorbitemOffset	 formulare.less"
+			],
+			[
+				"bild",
+				"bildboxHTMLRight"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"conten",
+				"contentcolumn"
+			],
+			[
+				"colu",
+				"column-2"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mic",
+				"micrositeBox"
+			],
+			[
+				"con",
+				"contentcolumn"
+			],
+			[
+				"main",
+				"maincontent	(microsite.html)"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tab",
+				"tabflags"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"sche",
+				"Schemr: Set scheme for current syntax"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"mardown",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"notes",
+				"Set Syntax: Notes"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"javatar",
+				"Javatar: Browse Commands..."
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"puppe",
+				"Set Syntax: Puppet"
+			],
+			[
+				"smar",
+				"Set Syntax: Smarty"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"schemr",
+				"Schemr: List all schemes"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"puppet",
+				"Set Syntax: Puppet"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript (DOM)"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html b",
+				"HTMLBeautify"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript (DOM)"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pph",
+				"Set Syntax: PHP"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"work",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"lin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript (DOM)"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"snippet",
+				"Snippet: deferred.reject"
+			],
+			[
+				"functio",
+				"Snippet: Function"
+			],
+			[
+				"snippe",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"gup",
+				"Gulp"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"gu",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"sw",
+				"Set Syntax: Swig"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"swig",
+				"Set Syntax: Swig"
+			],
+			[
+				"Varia",
+				"List LESS variables"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sch",
+				"Schemr: List all schemes"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andreasbuchholz/Programming/Training/React"
+	],
+	"file_history":
+	[
+		"/Users/andreasbuchholz/Programming/Training/React-For-Beginners-Starter-Files/01 - Introduction - Start Here/scripts/main.js",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/User/JavaScript (Babel).sublime-settings",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/andreasbuchholz/Documents/Edicos/DSV/DSV_450.mdown",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/andreasbuchholz/Programming/Ausbildung/Webschulung/20141218 Aufgaben/Webschulung_HA_DR/js/main.js",
+		"/Users/andreasbuchholz/Programming/Test.java",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3_Old/project/vagrantconfig.yaml",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3_Old/project/vagrantconfig_local.yaml",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3_Old/project/Vagrantfile",
+		"/Users/andreasbuchholz/Programming/Shoptimax/Aktionen Project Files/BackUp/modules/shoptimax/smx_aktionen/application/views/tpl/smx_banners_assign_articles_snippet.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Vagrant + Docker/Vagrant/Vagrantfile",
+		"/Users/andreasbuchholz/Programming/DSV/opencms-modules.xml",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/User/Puppet.sublime-settings",
+		"/Users/andreasbuchholz/Library/Caches/Cleanup At Startup/Transmit/45C09AE7-6B1D-4BBF-A651-06094FC61079/bootstrap.php",
+		"/Users/andreasbuchholz/Programming/Shoptimax/smxAktionen/src/modules/shoptimax/smx_aktionen/smx_aktionen_setup.php",
+		"/Users/andreasbuchholz/Documents/Shoptimax/Jabber.txt",
+		"/tmp/subl stdin 75lVoS.txt",
+		"/Users/andreasbuchholz/Programming/HTMLDraft_Boilerplate/frontend-archetype/target/classes/archetype-resources/src/main/frontend/start-webserver.sh",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/application/views/smxResponsive/tpl/custom/widget/smx_categorybrands.tpl",
+		"/Users/andreasbuchholz/Documents/Shoptimax/Anpassung_smxAktionen.txt",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/blocks/admin_actions_main_form.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/blocks/smx_admin_actions_main_details.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/models/smx_action2banner.php",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/admin/smx_actions_main.php",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/models/smx_aktionen_oxactions.php",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/smx_aktionen_setup.php",
+		"/Users/andreasbuchholz/Programming/Shoptimax/shoptimax.sublime-project",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/blocks/smx_aktionen_start_main_block.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/metadata.php",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/blocks/smx_aktionen_megamenu_themes_block.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/application/views/smxResponsive/tpl/custom/widget/smx_themesbanner.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/application/views/smxResponsive/tpl/custom/widget/header/smx_categorymegamenu.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/blocks/smx_aktionen_megamenu_brands_block.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/application/views/smxResponsive/tpl/custom/widget/smx_categorybanner.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/blocks/smx_aktionen_megamenu_banner_block.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/core/smx_aktionen_oxviewconfig.php",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/application/views/smxResponsive/tpl/widget/product/list.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/blocks/smx_aktionen_category_seperator_block.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/blocks/smx_aktionen_fixed_banner.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/application/views/smxResponsive/tpl/page/list/list.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/blocks/smx_aktionen_category_block.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/application/views/tpl/custom/smx_megaslider.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/application/views/tpl/custom/smx_imageslider.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/application/views/tpl/smx_banners_main.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/application/views/tpl/smx_banners_template_hub.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/smxAktionen/src/modules/shoptimax/smx_aktionen/application/views/tpl/custom/smx_megaslider.tpl",
+		"/Users/andreasbuchholz/Documents/Shoptimax/Aktionen.txt",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/modules/shoptimax/smx_aktionen/readme.md",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/smxAktionen/src/modules/shoptimax/smx_aktionen/blocks/smx_admin_actions_main_details.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/application/views/admin/tpl/actions_main.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/application/views/admin/tpl/actions.tpl",
+		"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www/application/views/admin/tpl/article_main.tpl",
+		"/Users/andreasbuchholz/Programming/Shoptimax/smxResponsive/src/smxAktionen.sublime-project",
+		"/Users/andreasbuchholz/Programming/Shoptimax/smxResponsive/src/smxResponsive.sql",
+		"/Users/andreasbuchholz/Programming/Shoptimax/smxResponsive/src/Installation-HOWTO.txt",
+		"/Users/andreasbuchholz/Programming/Vagrant/OpenCMS10/Vagrantfile",
+		"/Users/andreasbuchholz/Programming/Vagrant/OpenCMS10/puppet/manifests/default.pp",
+		"/Users/andreasbuchholz/Programming/Vagrant/OpenCMS10/htdocs/createPropertyFile.sh",
+		"/Users/andreasbuchholz/Programming/Vagrant/OpenCMS10/htdocs/moveFiles.sh",
+		"/Users/andreasbuchholz/Programming/Vagrant/OpenCMS10/htdocs/setup.properties",
+		"/Users/andreasbuchholz/Programming/DSV/OpenCms Testsystem/Vagrantfile",
+		"/Users/andreasbuchholz/Programming/DSV/OpenCms Testsystem/puppet/manifests/default.pp",
+		"/Users/andreasbuchholz/Documents/Edicos/Firstspirit/Firstspirit.notes",
+		"/Users/andreasbuchholz/Documents/TWT/TWT Notes",
+		"/Users/andreasbuchholz/Documents/TWT/listitem_wishlist",
+		"/Users/andreasbuchholz/Programming/Shops/xxl-stuehle-shop.de/htdocs/config.inc.php",
+		"/Users/andreasbuchholz/Documents/TWT/Sizetables.html",
+		"/Users/andreasbuchholz/Programming/KGSt/index.html",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/andreasbuchholz/Downloads/get_manifest.f4m",
+		"/Users/andreasbuchholz/Programming/KGSt/css/custom.css",
+		"/Users/andreasbuchholz/Programming/KGSt/KGSt.sublime-project",
+		"/Users/andreasbuchholz/Downloads/magnolia-5.4.1/README.txt",
+		"/Users/andreasbuchholz/Programming/CL NL.html",
+		"/Users/andreasbuchholz/Programming/DSV/Design/ClickdummyRD/css/custom.css",
+		"/Users/andreasbuchholz/Programming/Design/Projekt Business Run/Draft/js/custom.js",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/andreasbuchholz/.startup",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/less/styles/homepage.less",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/less/custom.less",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/less/general-settings.less",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/js/fragments/00-responsive-fixes.js",
+		"/Users/andreasbuchholz/Downloads/rubygems-2.4.8/README.rdoc",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/gulpfile.js",
+		"/Users/andreasbuchholz/Programming/Projects/CL_RD.sublime-project",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/less/styles/formulare.less",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/less/styles/navigation.less",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/User/DashDoc.sublime-settings",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/contentpage_Formulare.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/materialbestellung.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/.bowerrc",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/target/materialbestellung.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/target/contentpage_Formulare.html",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/DashDoc/DashDoc.sublime-settings",
+		"/Users/andreasbuchholz/Documents/Projekte/DSV/PDF Generator/opencms-modules_LIVE.xml",
+		"/Users/andreasbuchholz/Documents/Projekte/DSV/PDF Generator/opencms-modules_STAGE.xml",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/Notifications/notifications.sublime-settings",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/User/notifications.sublime-settings",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/less/styles/layoutStandard.less",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/contentpage.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/_templates/elements/aktienfonds-tabs.html",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/User/sub_notify.sublime-settings",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/SubNotify/sub_notify.sublime-settings",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/less/mixins.less",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/contentpage2.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/less/styles/microsites/microsite.less",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/_templates/elements/telefonbox.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/microsite_siemens.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/_templates/base.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/_templates/elements/socialmedia_footer.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/_templates/elements/socialmedia.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/_templates/elements/navbar-header.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/_templates/elements/mobile-servicefooter.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/_templates/elements/footer.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/swig/_templates/elements/content_servicenavigation.html",
+		"/Users/andreasbuchholz/Programming/canadalife-rwd-clickdummy-2015/src/js/fragments/custom.js",
+		"/Users/andreasbuchholz/Library/Application Support/Sublime Text 3/Packages/Gulp/Gulp.sublime-settings"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			"/Users/andreasbuchholz/Programming/Shoptimax/Aktionen Project Files/Oxid_PHP_5_3/www",
+			"/Users/andreasbuchholz/Programming/Vagrant/Oxid_PHP_5_3/www",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"emmet_action_enabled.expand_abbreviation",
+			"h1",
+			">",
+			"<type class=\"[\\w.]*\" ",
+			"<type class=\"[\\w.]*\" name=\"[\\w.]*\" id=\"[\\d]*\">",
+			"We don't play this game, go away",
+			"clickpic",
+			"bannerlist",
+			"smx_aktionen_megamenu_brands_block",
+			"megamenu_brands",
+			"megamenu",
+			"megamenu_brands",
+			"location",
+			"showTopCatOnly",
+			"smx_actionlocation",
+			"category",
+			"smx_locationident",
+			"location",
+			"smx_location",
+			"getLocationList",
+			"block",
+			"getCustomTemplatePath",
+			"getOutputTypeList",
+			"megaslider",
+			"disableSharedEdit",
+			"'oxbaseshop'",
+			"oxbaseshop",
+			"1,",
+			"oxbaseshop",
+			"manifestdir\n\nmanifestdir\n\nmanifestdir",
+			"manifest",
+			"--manifestdir",
+			"voucher",
+			"article",
+			"aVariantSelections",
+			"variantse",
+			"http://abuchholz.porsche.oxid-dev3.twt.intern",
+			"</script>",
+			"}",
+			"font",
+			"<?",
+			"portlet",
+			"aside",
+			"mark",
+			"longText",
+			"longtext",
+			"Schwere KRan"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"'oxbaseshop',",
+			"'oxbaseshop'",
+			"oxbaseshop",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 25.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "React Training.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"form",
+				"src/less/styles/formulare.less"
+			],
+			[
+				"navai",
+				"src/less/styles/navigation.less"
+			],
+			[
+				"mater",
+				"target/materialbestellung.html"
+			],
+			[
+				"formu",
+				"target/contentpage_Formulare.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
